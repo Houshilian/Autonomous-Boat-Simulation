@@ -1,9 +1,11 @@
 # Autonomous-Boat-Simulation
 Autonomous Boat (AB) Simulation Algorithm and UI.
-- CSYE6200 Concepts of Object Oriented Design (Summer 2)
-- Instructor: Munson, Mark.
 
 ![image](https://github.com/Houshilian/Autonomous-Boat-Simulation/blob/main/Boat.png)
+
+### CSYE6200: 
+- Course name: Concepts of Object-Oriented Design (Summer 2)
+- Instructor: Munson, Mark.
 
 ### Algorithm: 
 - Create supporting classes to perform AB calculations as described in the lecture notes.
