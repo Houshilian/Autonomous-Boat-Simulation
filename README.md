@@ -9,11 +9,11 @@ Autonomous Boat (AB) Simulation Algorithm and UI.
   * Ocean Grid – a 2D representation of an ocean/water surface.
   * ABRule – Governs the movement of a Boat instance within the ocean space.
   * Simulation:
-  * - Set initial conditions.
-  * - Add a run() method that begins execution of a simulation loop.
-  * - Simulation loop: Advance time by a unit amount and re-evaluate the boat position/motion, and ocean state.
-  * - Add instrumentation points to gather desired statistics.
-  * - Consider how oil may flow within the ocean grid over time.
+    - Set initial conditions.
+    - Add a run() method that begins execution of a simulation loop.
+    - Simulation loop: Advance time by a unit amount and re-evaluate the boat position/motion, and ocean state.
+    - Add instrumentation points to gather desired statistics.
+    - Consider how oil may flow within the ocean grid over time.
 
 ### UI:
 - Create 1-2 Use Cases plus a Sequence Diagram that describe your program’s operation (rule selection, process start/stop, display control).
